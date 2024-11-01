@@ -22,8 +22,9 @@ This Python-based To-Do List application provides an intuitive way to manage tas
 10.**Navigate with 'B'**: Press 'B' to go back to the main menu during any input prompt.
 
 ## Requirements
--**Python 3.x**
--**Modules: os, pickle, time**
+- **Python 3.x**
+  
+- **Modules: os, pickle, time**
 ## Installation and Setup
 - Make sure you have Python 3.x installed on your system.
 
