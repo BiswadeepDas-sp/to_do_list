@@ -83,3 +83,12 @@ This Python-based To-Do List application provides an intuitive way to manage tas
 
 - **to_do_list.py**: The main script for the To-Do List application.
 
+- **todo_list.pkl**: The file where your to-do list data is saved (created after using the save feature).
+
+# License
+This project is provided "as-is" under the MIT License. You are free to modify and distribute it as you wish.
+
+# Acknowledgements
+- Python documentation for the os, pickle, and time modules.
+- Inspiration from various to-do list apps for functionality design.
+
